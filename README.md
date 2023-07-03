@@ -42,7 +42,7 @@ Refer to the API documentation or the provided code to understand the available 
 
 ## Testing
 
-To run tests, you can use JUnit and Mockito for unit testing or tools like RestAssured for integration testing. Write tests for the desired endpoints or functionalities.
+To run tests, you can use JUnit and Mockito for unit testing or tools like RestAssured for integration testing. Write tests for the desired endpoints or functionalities. DepartmentControllerTest.java test file is supplied in the project test directory for unittesting
 
 ## Troubleshooting
 
