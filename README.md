@@ -47,5 +47,3 @@ To run tests, you can use JUnit and Mockito for unit testing or tools like RestA
 ## Troubleshooting
 
 If you encounter any issues during the setup or running of the application, please ensure that you have installed the required software and dependencies correctly. Check the console or logs for any error messages that may help in troubleshooting.
-
----
