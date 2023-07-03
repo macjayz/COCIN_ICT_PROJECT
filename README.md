@@ -1,5 +1,3 @@
-Certainly! Here's a README.md format for setting up and running the Employee Management System application:
-
 # Employee Management System
 
 This is a RESTful API for an Employee Management System built using Java and the Spring Boot framework.
@@ -51,5 +49,3 @@ To run tests, you can use JUnit and Mockito for unit testing or tools like RestA
 If you encounter any issues during the setup or running of the application, please ensure that you have installed the required software and dependencies correctly. Check the console or logs for any error messages that may help in troubleshooting.
 
 ---
-
-Feel free to customize the README.md file according to your project's specific details and requirements.
