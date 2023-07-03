@@ -31,7 +31,7 @@ This is a RESTful API for an Employee Management System built using Java and the
      mvnw.cmd spring-boot:run    (for Windows)
      ```
 
-5. The application should start, and you can access the API endpoints using a tool like cURL, Postman, or any web browser.
+5. The application should start, and you can access the API endpoints using a tool like cURL, Postman, or any web browser. Make sure all dependencies are properly installed and configured in pom.xml file.
 
 6. The API is available at `http://localhost:8080`.
 
