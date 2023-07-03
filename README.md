@@ -37,38 +37,6 @@ This is a RESTful API for an Employee Management System built using Java and the
 
 6. The API is available at `http://localhost:8080`.
 
-Folder Structure
-The project's folder structure is organized as follows:
-
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com.cocin.demo/
-│   │   │   │   ├──employee
-│   │   │   │   │   ├── Department.java             # Contains REST controller classes
-│   │   │   │   │   ├── DepartmentController.java   # Contains entity and repository classes
-│   │   │   │   │   ├── DepartmentRepository.java   # Contains service classes
-│   │   │   │   │   ├── DepartmentRequest.java      # contains test request class
-│   │   │   │   │   ├── DepartmentService.java      # Contains classes for service layer
-│   │   │   │   │   ├── Employee.java               # Contains employee models
-│   │   │   │   │   ├── EmployeeController.java
-│   │   │   │   │   ├── EmployeeRepository.java
-│   │   │   │   │   ├── EmployeeService.java
-│   │   │   │   │   └── GlobalExceptionHandler.java    
-│   │   │   │   │   
-│   │   │   │   └──DemoApplication.java     # Application entry point
-│   │   ├── resources/
-│   │   │   ├──db    
-│   │   │   ├── application.properties   # Configuration properties
-│   │   │   └── liquibase/               # Contains Liquibase database migration files
-│   ├── test/
-│   │   ├── java/
-│   │   │   ├── com.example.employeemanagement/
-│   │   │   │   ├── controller/         # Contains unit or integration test classes
-│   │   │   │   ├── service/            # Contains test classes for service layer
-│   │   │   │   └── EmployeemanagementApplicationTests.java   # Application test class
-└── pom.xml                             # Maven build configuration
-
 
 ## API Documentation
 
